@@ -13,7 +13,7 @@ Companion blog post: [Memory Poisoning: The Silent Attack on AI Agents](https://
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo-placeholder
+https://youtu.be/Pb46i3ZLK8g 
 
 > Session 1: agent answers correctly. Attacker writes one entry to disk. Session 2: same query, completely different — and dangerous — answer.
 
