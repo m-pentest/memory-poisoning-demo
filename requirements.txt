@@ -1,0 +1,2 @@
+chromadb>=0.4.22
+fastembed>=0.3.0
